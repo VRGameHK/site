@@ -30,7 +30,6 @@
     "log",
     "byteLength"
   ];
-
   const _0x12a9 = (_i) => _0x3e3a[_i];
 
   const _antiDebug = () => {
@@ -86,7 +85,6 @@
   function _noise1() {
     return [Math.random(), Date.now(), navigator.language].join("x");
   }
-
   function _noise2() {
     if (window.innerWidth % 2 === 0) {
       return new Date().toISOString();
@@ -94,7 +92,6 @@
       return _noise1();
     }
   }
-
   (function () {
     _antiDebug();
     _noise2();
